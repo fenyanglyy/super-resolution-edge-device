@@ -1,1 +1,1 @@
-# super-resolution-edge-device
+# Super Resolution Edge Device
